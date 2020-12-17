@@ -17,4 +17,8 @@ git checkout -b feature_a
 git commit -m "<message>" README.md
 git checkout -b feature_b
 git commit -m "<message>" README.md
+
+git blame README.md
+git diff HEAD~2
+git diff master..feature_a
 ```
