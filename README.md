@@ -15,4 +15,6 @@ git diff HEAD~1
 
 git checkout -b feature_a
 git commit -m "<message>" README.md
+git checkout -b feature_b
+git commit -m "<message>" README.md
 ```
