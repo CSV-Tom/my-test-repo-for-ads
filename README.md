@@ -8,4 +8,8 @@ git status
 git log
 git add README.md
 git commit -m "<message>" 
+git checkout .
+git checkout -b feature_x
+git diff
+git diff HEAD~1
 ```
