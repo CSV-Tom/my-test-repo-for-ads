@@ -21,4 +21,10 @@ git commit -m "<message>" README.md
 git blame README.md
 git diff HEAD~2
 git diff master..feature_a
+
+git branch -av
+git push -u origin master
+git push -u origin feature_tom
+git pull
+git fetch
 ```
